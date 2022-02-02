@@ -2,7 +2,7 @@
 $tabStudent = [
     [
         'image' => './images/img_table.png',
-        'username' => 'Badr',
+        'username' => 'Bader',
         'email' => 'badr@gmail.com',
         'phone' => '7305477760',
         'number' => '1234567305477760',
@@ -35,7 +35,7 @@ $tabStudent = [
 
     [
         'image' => './images/img_table.png',
-        'username' => 'Badr',
+        'username' => 'Bader',
         'email' => 'badr@gmail.com',
         'phone' => '7305477760',
         'number' => '1234567305477760',
